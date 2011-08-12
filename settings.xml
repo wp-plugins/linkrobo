@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pma_xml_export version="1.0">
+<database name="translator"><table name="wp_tb_links">
+<column name="option_name">linkbot_cron_day_start</column>
+<column name="option_value">1301082217</column>
+</table>
+<table name="wp_tb_links">
+<column name="option_name">linkbot_cron_links_per_day</column>
+<column name="option_value">0</column>
+</table>
+<table name="wp_tb_links">
+<column name="option_name">linkbot_cron_links_per_day_for_new_posts</column>
+<column name="option_value">0</column>
+</table>
+<table name="wp_tb_links">
+<column name="option_name">linkbot_cron_links_per_day_for_old_posts</column>
+<column name="option_value">0</column>
+</table>
+<table name="wp_tb_links">
+<column name="option_name">linkbot_links_per_day_for_new_posts</column>
+<column name="option_value">10</column>
+</table>
+<table name="wp_tb_links">
+<column name="option_name">linkbot_links_per_day_for_old_posts</column>
+<column name="option_value">10</column>
+</table>
+<table name="wp_tb_links">
+<column name="option_name">linkbot_use_new_posts</column>
+<column name="option_value">1</column>
+</table>
+<table name="wp_tb_links">
+<column name="option_name">linkbot_use_old_posts</column>
+<column name="option_value">1</column>
+</table>
+</database>
+</pma_xml_export>
